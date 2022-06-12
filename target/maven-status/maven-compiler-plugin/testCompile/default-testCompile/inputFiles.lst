@@ -1,0 +1,12 @@
+C:\dev\study\seleniumbdd\src\test\java\constants\Drivers.java
+C:\dev\study\seleniumbdd\src\test\java\stepDefinations\CurrencyConversionStepDef.java
+C:\dev\study\seleniumbdd\src\test\java\contexts\TestContext.java
+C:\dev\study\seleniumbdd\src\test\java\managers\AllWebDriverManager.java
+C:\dev\study\seleniumbdd\src\test\java\managers\PageObjectManager.java
+C:\dev\study\seleniumbdd\src\test\java\stepDefinations\Hooks.java
+C:\dev\study\seleniumbdd\src\test\java\dataProviders\ConfigFileReader.java
+C:\dev\study\seleniumbdd\src\test\java\pageObjects\CurrencyConversionResultPage.java
+C:\dev\study\seleniumbdd\src\test\java\runners\TestRunner.java
+C:\dev\study\seleniumbdd\src\test\java\pageObjects\CurrencyConversionPage.java
+C:\dev\study\seleniumbdd\src\test\java\utilities\WaitHandlers.java
+C:\dev\study\seleniumbdd\src\test\java\managers\FileReaderManager.java
